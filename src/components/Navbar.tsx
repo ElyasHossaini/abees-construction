@@ -14,7 +14,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex-shrink-0 flex items-center space-x-2">
             <Image
-              src="/bee_logo_56x56.png"
+              src="/beelogo_full_image.png"
               alt="Abees Construction Logo"
               width={56}
               height={56}
