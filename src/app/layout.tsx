@@ -24,14 +24,24 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
+      { url: '/favicon/favicon.ico', sizes: 'any' },
+      { url: '/favicon/icon-16x16.png', sizes: '16x16', type: 'image/png' },
+      { url: '/favicon/icon-32x32.png', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon/icon-96x96.png', sizes: '96x96', type: 'image/png' },
+      { url: '/favicon/icon-192x192.png', sizes: '192x192', type: 'image/png' },
+      { url: '/favicon/icon-512x512.png', sizes: '512x512', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/favicon/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
+    shortcut: ['/favicon/favicon.ico'],
+    other: [
       {
-        url: '/bee_logo_56x56.png',
-        sizes: '56x56',
-        type: 'image/png'
+        rel: 'mask-icon',
+        url: '/favicon/safari-pinned-tab.svg',
+        color: '#1e40af'
       }
     ],
-    shortcut: '/bee_logo_56x56.png',
-    apple: '/bee_logo_56x56.png'
   },
   openGraph: {
     title: 'Abees Construction - Calgary\'s Premier Renovation Experts',
@@ -89,9 +99,16 @@ export default function RootLayout({
         <meta name="geo.position" content="51.167409;-114.157253" />
         <meta name="ICBM" content="51.167409, -114.157253" />
         <link rel="manifest" href="/manifest.json" />
-        <link rel="icon" href="/bee_logo_56x56.png" />
+        
+        {/* Favicon configuration */}
+        <link rel="icon" type="image/x-icon" href="/bee_logo_56x56.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/bee_logo_56x56.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/bee_logo_56x56.png" />
+        <link rel="icon" type="image/png" sizes="48x48" href="/bee_logo_56x56.png" />
         <link rel="apple-touch-icon" href="/bee_logo_56x56.png" />
-        <link rel="shortcut icon" href="/bee_logo_56x56.png" />
+        <meta name="msapplication-TileImage" content="/bee_logo_56x56.png" />
+        <meta name="msapplication-TileColor" content="#ffffff" />
+        
         <Script 
           src="https://www.googletagmanager.com/gtag/js?id=G-5LMGHS4B8W"
           strategy="afterInteractive"

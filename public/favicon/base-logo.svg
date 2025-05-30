@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#1e40af"/>
+  
+  <!-- Stylized "A" letter -->
+  <path d="M256 80 L96 432 L416 432 Z" fill="white" stroke="none"/>
+  <path d="M176 332 L336 332 L256 152 Z" fill="#1e40af"/>
+</svg> 
