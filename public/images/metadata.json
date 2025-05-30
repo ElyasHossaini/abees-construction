@@ -1,0 +1,489 @@
+{
+  "categories": {
+    "kitchens": [],
+    "bathrooms": [],
+    "basements": [],
+    "living-rooms": [],
+    "outdoor": [],
+    "custom-work": [],
+    "before-after": [],
+    "gallery": [
+      {
+        "filename": "gallery-268b9475-e7f7-4362-b1d7-cb22f098709b.jpg",
+        "webp": "gallery-268b9475-e7f7-4362-b1d7-cb22f098709b.webp",
+        "alt": "Gallery 268b9475 E7f7 4362 B1d7 Cb22f098709b"
+      },
+      {
+        "filename": "gallery-520ef0b4-e19f-4643-8468-e1044cf00870.jpg",
+        "webp": "gallery-520ef0b4-e19f-4643-8468-e1044cf00870.webp",
+        "alt": "Gallery 520ef0b4 E19f 4643 8468 E1044cf00870"
+      },
+      {
+        "filename": "gallery-66085682709-d1251b6f-0240-40ef-a1bd-5fb3e997774c.jpg",
+        "webp": "gallery-66085682709-d1251b6f-0240-40ef-a1bd-5fb3e997774c.webp",
+        "alt": "Gallery 66085682709 D1251b6f 0240 40ef A1bd 5fb3e997774c"
+      },
+      {
+        "filename": "gallery-6a3707cb-e548-4572-8633-e62962078871.jpg",
+        "webp": "gallery-6a3707cb-e548-4572-8633-e62962078871.webp",
+        "alt": "Gallery 6a3707cb E548 4572 8633 E62962078871"
+      },
+      {
+        "filename": "gallery-71631904984-4017b1f0-421a-4aa2-8725-ed7b66b95651.jpg",
+        "webp": "gallery-71631904984-4017b1f0-421a-4aa2-8725-ed7b66b95651.webp",
+        "alt": "Gallery 71631904984 4017b1f0 421a 4aa2 8725 Ed7b66b95651"
+      },
+      {
+        "filename": "gallery-9949d6e5-7df1-4f9f-8fcb-8f1fa52e106b.jpg",
+        "webp": "gallery-9949d6e5-7df1-4f9f-8fcb-8f1fa52e106b.webp",
+        "alt": "Gallery 9949d6e5 7df1 4f9f 8fcb 8f1fa52e106b"
+      },
+      {
+        "filename": "gallery-img-0186.jpg",
+        "webp": "gallery-img-0186.webp",
+        "alt": "Gallery Img 0186"
+      },
+      {
+        "filename": "gallery-img-0190.jpg",
+        "webp": "gallery-img-0190.webp",
+        "alt": "Gallery Img 0190"
+      },
+      {
+        "filename": "gallery-img-0753.jpg",
+        "webp": "gallery-img-0753.webp",
+        "alt": "Gallery Img 0753"
+      },
+      {
+        "filename": "gallery-img-1470.jpg",
+        "webp": "gallery-img-1470.webp",
+        "alt": "Gallery Img 1470"
+      },
+      {
+        "filename": "gallery-img-1471.jpg",
+        "webp": "gallery-img-1471.webp",
+        "alt": "Gallery Img 1471"
+      },
+      {
+        "filename": "gallery-img-1966.jpg",
+        "webp": "gallery-img-1966.webp",
+        "alt": "Gallery Img 1966"
+      },
+      {
+        "filename": "gallery-img-1967.jpg",
+        "webp": "gallery-img-1967.webp",
+        "alt": "Gallery Img 1967"
+      },
+      {
+        "filename": "gallery-img-1974.jpg",
+        "webp": "gallery-img-1974.webp",
+        "alt": "Gallery Img 1974"
+      },
+      {
+        "filename": "gallery-img-2053.jpg",
+        "webp": "gallery-img-2053.webp",
+        "alt": "Gallery Img 2053"
+      },
+      {
+        "filename": "gallery-img-2059.jpg",
+        "webp": "gallery-img-2059.webp",
+        "alt": "Gallery Img 2059"
+      },
+      {
+        "filename": "gallery-img-2062.jpg",
+        "webp": "gallery-img-2062.webp",
+        "alt": "Gallery Img 2062"
+      },
+      {
+        "filename": "gallery-img-2066.jpg",
+        "webp": "gallery-img-2066.webp",
+        "alt": "Gallery Img 2066"
+      },
+      {
+        "filename": "gallery-img-2313.jpg",
+        "webp": "gallery-img-2313.webp",
+        "alt": "Gallery Img 2313"
+      },
+      {
+        "filename": "gallery-img-2477.jpg",
+        "webp": "gallery-img-2477.webp",
+        "alt": "Gallery Img 2477"
+      },
+      {
+        "filename": "gallery-img-2478.jpg",
+        "webp": "gallery-img-2478.webp",
+        "alt": "Gallery Img 2478"
+      },
+      {
+        "filename": "gallery-img-2587.jpg",
+        "webp": "gallery-img-2587.webp",
+        "alt": "Gallery Img 2587"
+      },
+      {
+        "filename": "gallery-img-2707.jpg",
+        "webp": "gallery-img-2707.webp",
+        "alt": "Gallery Img 2707"
+      },
+      {
+        "filename": "gallery-img-2708.jpg",
+        "webp": "gallery-img-2708.webp",
+        "alt": "Gallery Img 2708"
+      },
+      {
+        "filename": "gallery-img-2857.jpg",
+        "webp": "gallery-img-2857.webp",
+        "alt": "Gallery Img 2857"
+      },
+      {
+        "filename": "gallery-img-3562.jpg",
+        "webp": "gallery-img-3562.webp",
+        "alt": "Gallery Img 3562"
+      },
+      {
+        "filename": "gallery-img-3563.jpg",
+        "webp": "gallery-img-3563.webp",
+        "alt": "Gallery Img 3563"
+      },
+      {
+        "filename": "gallery-img-3564.jpg",
+        "webp": "gallery-img-3564.webp",
+        "alt": "Gallery Img 3564"
+      },
+      {
+        "filename": "gallery-img-3721.jpg",
+        "webp": "gallery-img-3721.webp",
+        "alt": "Gallery Img 3721"
+      },
+      {
+        "filename": "gallery-img-3988.jpg",
+        "webp": "gallery-img-3988.webp",
+        "alt": "Gallery Img 3988"
+      },
+      {
+        "filename": "gallery-img-3991.jpg",
+        "webp": "gallery-img-3991.webp",
+        "alt": "Gallery Img 3991"
+      },
+      {
+        "filename": "gallery-img-3995.jpg",
+        "webp": "gallery-img-3995.webp",
+        "alt": "Gallery Img 3995"
+      },
+      {
+        "filename": "gallery-img-4425.jpg",
+        "webp": "gallery-img-4425.webp",
+        "alt": "Gallery Img 4425"
+      },
+      {
+        "filename": "gallery-img-4426.jpg",
+        "webp": "gallery-img-4426.webp",
+        "alt": "Gallery Img 4426"
+      },
+      {
+        "filename": "gallery-img-4621.jpg",
+        "webp": "gallery-img-4621.webp",
+        "alt": "Gallery Img 4621"
+      },
+      {
+        "filename": "gallery-img-5088.jpg",
+        "webp": "gallery-img-5088.webp",
+        "alt": "Gallery Img 5088"
+      },
+      {
+        "filename": "gallery-img-5089.jpg",
+        "webp": "gallery-img-5089.webp",
+        "alt": "Gallery Img 5089"
+      },
+      {
+        "filename": "gallery-img-5321.jpg",
+        "webp": "gallery-img-5321.webp",
+        "alt": "Gallery Img 5321"
+      },
+      {
+        "filename": "gallery-img-5327.jpg",
+        "webp": "gallery-img-5327.webp",
+        "alt": "Gallery Img 5327"
+      },
+      {
+        "filename": "gallery-img-5459.jpg",
+        "webp": "gallery-img-5459.webp",
+        "alt": "Gallery Img 5459"
+      },
+      {
+        "filename": "gallery-img-5462.jpg",
+        "webp": "gallery-img-5462.webp",
+        "alt": "Gallery Img 5462"
+      },
+      {
+        "filename": "gallery-img-5468.jpg",
+        "webp": "gallery-img-5468.webp",
+        "alt": "Gallery Img 5468"
+      },
+      {
+        "filename": "gallery-img-5484.jpg",
+        "webp": "gallery-img-5484.webp",
+        "alt": "Gallery Img 5484"
+      },
+      {
+        "filename": "gallery-img-5569.jpg",
+        "webp": "gallery-img-5569.webp",
+        "alt": "Gallery Img 5569"
+      },
+      {
+        "filename": "gallery-img-5797.jpg",
+        "webp": "gallery-img-5797.webp",
+        "alt": "Gallery Img 5797"
+      },
+      {
+        "filename": "gallery-img-6117.jpg",
+        "webp": "gallery-img-6117.webp",
+        "alt": "Gallery Img 6117"
+      },
+      {
+        "filename": "gallery-img-6151.jpg",
+        "webp": "gallery-img-6151.webp",
+        "alt": "Gallery Img 6151"
+      },
+      {
+        "filename": "gallery-img-6152.jpg",
+        "webp": "gallery-img-6152.webp",
+        "alt": "Gallery Img 6152"
+      },
+      {
+        "filename": "gallery-img-6153.jpg",
+        "webp": "gallery-img-6153.webp",
+        "alt": "Gallery Img 6153"
+      },
+      {
+        "filename": "gallery-img-6154.jpg",
+        "webp": "gallery-img-6154.webp",
+        "alt": "Gallery Img 6154"
+      },
+      {
+        "filename": "gallery-img-6155.jpg",
+        "webp": "gallery-img-6155.webp",
+        "alt": "Gallery Img 6155"
+      },
+      {
+        "filename": "gallery-img-6156.jpg",
+        "webp": "gallery-img-6156.webp",
+        "alt": "Gallery Img 6156"
+      },
+      {
+        "filename": "gallery-img-6207.jpg",
+        "webp": "gallery-img-6207.webp",
+        "alt": "Gallery Img 6207"
+      },
+      {
+        "filename": "gallery-img-6208.jpg",
+        "webp": "gallery-img-6208.webp",
+        "alt": "Gallery Img 6208"
+      },
+      {
+        "filename": "gallery-img-6348.jpg",
+        "webp": "gallery-img-6348.webp",
+        "alt": "Gallery Img 6348"
+      },
+      {
+        "filename": "gallery-img-6349.jpg",
+        "webp": "gallery-img-6349.webp",
+        "alt": "Gallery Img 6349"
+      },
+      {
+        "filename": "gallery-img-6371.jpg",
+        "webp": "gallery-img-6371.webp",
+        "alt": "Gallery Img 6371"
+      },
+      {
+        "filename": "gallery-img-6372.jpg",
+        "webp": "gallery-img-6372.webp",
+        "alt": "Gallery Img 6372"
+      },
+      {
+        "filename": "gallery-img-6373.jpg",
+        "webp": "gallery-img-6373.webp",
+        "alt": "Gallery Img 6373"
+      },
+      {
+        "filename": "gallery-img-6413.jpg",
+        "webp": "gallery-img-6413.webp",
+        "alt": "Gallery Img 6413"
+      },
+      {
+        "filename": "gallery-img-6553.jpg",
+        "webp": "gallery-img-6553.webp",
+        "alt": "Gallery Img 6553"
+      },
+      {
+        "filename": "gallery-img-6671.jpg",
+        "webp": "gallery-img-6671.webp",
+        "alt": "Gallery Img 6671"
+      },
+      {
+        "filename": "gallery-img-6674.jpg",
+        "webp": "gallery-img-6674.webp",
+        "alt": "Gallery Img 6674"
+      },
+      {
+        "filename": "gallery-img-6675.jpg",
+        "webp": "gallery-img-6675.webp",
+        "alt": "Gallery Img 6675"
+      },
+      {
+        "filename": "gallery-img-6963.jpg",
+        "webp": "gallery-img-6963.webp",
+        "alt": "Gallery Img 6963"
+      },
+      {
+        "filename": "gallery-img-7009.jpg",
+        "webp": "gallery-img-7009.webp",
+        "alt": "Gallery Img 7009"
+      },
+      {
+        "filename": "gallery-img-7052.jpg",
+        "webp": "gallery-img-7052.webp",
+        "alt": "Gallery Img 7052"
+      },
+      {
+        "filename": "gallery-img-7054.jpg",
+        "webp": "gallery-img-7054.webp",
+        "alt": "Gallery Img 7054"
+      },
+      {
+        "filename": "gallery-img-7055.jpg",
+        "webp": "gallery-img-7055.webp",
+        "alt": "Gallery Img 7055"
+      },
+      {
+        "filename": "gallery-img-7056.jpg",
+        "webp": "gallery-img-7056.webp",
+        "alt": "Gallery Img 7056"
+      },
+      {
+        "filename": "gallery-img-7060.jpg",
+        "webp": "gallery-img-7060.webp",
+        "alt": "Gallery Img 7060"
+      },
+      {
+        "filename": "gallery-img-7072.jpg",
+        "webp": "gallery-img-7072.webp",
+        "alt": "Gallery Img 7072"
+      },
+      {
+        "filename": "gallery-img-7073.jpg",
+        "webp": "gallery-img-7073.webp",
+        "alt": "Gallery Img 7073"
+      },
+      {
+        "filename": "gallery-img-7074.jpg",
+        "webp": "gallery-img-7074.webp",
+        "alt": "Gallery Img 7074"
+      },
+      {
+        "filename": "gallery-img-7301.jpg",
+        "webp": "gallery-img-7301.webp",
+        "alt": "Gallery Img 7301"
+      },
+      {
+        "filename": "gallery-img-7302.jpg",
+        "webp": "gallery-img-7302.webp",
+        "alt": "Gallery Img 7302"
+      },
+      {
+        "filename": "gallery-img-7303.jpg",
+        "webp": "gallery-img-7303.webp",
+        "alt": "Gallery Img 7303"
+      },
+      {
+        "filename": "gallery-img-7307.jpg",
+        "webp": "gallery-img-7307.webp",
+        "alt": "Gallery Img 7307"
+      },
+      {
+        "filename": "gallery-img-7318.jpg",
+        "webp": "gallery-img-7318.webp",
+        "alt": "Gallery Img 7318"
+      },
+      {
+        "filename": "gallery-img-7324.jpg",
+        "webp": "gallery-img-7324.webp",
+        "alt": "Gallery Img 7324"
+      },
+      {
+        "filename": "gallery-img-7368.jpg",
+        "webp": "gallery-img-7368.webp",
+        "alt": "Gallery Img 7368"
+      },
+      {
+        "filename": "gallery-img-7369.jpg",
+        "webp": "gallery-img-7369.webp",
+        "alt": "Gallery Img 7369"
+      },
+      {
+        "filename": "gallery-img-7371.jpg",
+        "webp": "gallery-img-7371.webp",
+        "alt": "Gallery Img 7371"
+      },
+      {
+        "filename": "gallery-img-7480.jpg",
+        "webp": "gallery-img-7480.webp",
+        "alt": "Gallery Img 7480"
+      },
+      {
+        "filename": "gallery-img-7535.jpg",
+        "webp": "gallery-img-7535.webp",
+        "alt": "Gallery Img 7535"
+      },
+      {
+        "filename": "gallery-img-7573.jpg",
+        "webp": "gallery-img-7573.webp",
+        "alt": "Gallery Img 7573"
+      },
+      {
+        "filename": "gallery-img-8502.jpg",
+        "webp": "gallery-img-8502.webp",
+        "alt": "Gallery Img 8502"
+      },
+      {
+        "filename": "gallery-img-8512.jpg",
+        "webp": "gallery-img-8512.webp",
+        "alt": "Gallery Img 8512"
+      },
+      {
+        "filename": "gallery-img-8518.jpg",
+        "webp": "gallery-img-8518.webp",
+        "alt": "Gallery Img 8518"
+      },
+      {
+        "filename": "gallery-img-8527.jpg",
+        "webp": "gallery-img-8527.webp",
+        "alt": "Gallery Img 8527"
+      },
+      {
+        "filename": "gallery-img-9447.jpg",
+        "webp": "gallery-img-9447.webp",
+        "alt": "Gallery Img 9447"
+      },
+      {
+        "filename": "gallery-img-9481.jpg",
+        "webp": "gallery-img-9481.webp",
+        "alt": "Gallery Img 9481"
+      },
+      {
+        "filename": "gallery-img-9486.jpg",
+        "webp": "gallery-img-9486.webp",
+        "alt": "Gallery Img 9486"
+      },
+      {
+        "filename": "gallery-img-9487.jpg",
+        "webp": "gallery-img-9487.webp",
+        "alt": "Gallery Img 9487"
+      },
+      {
+        "filename": "gallery-img-9488.jpg",
+        "webp": "gallery-img-9488.webp",
+        "alt": "Gallery Img 9488"
+      }
+    ]
+  },
+  "lastUpdated": "2025-05-30T05:17:44.619Z"
+}
