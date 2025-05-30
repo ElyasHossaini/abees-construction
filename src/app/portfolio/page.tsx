@@ -12,6 +12,7 @@ interface ModalImage {
 
 export default function Portfolio() {
   const [selectedImage, setSelectedImage] = useState<ModalImage | null>(null);
+  const [selectedImageIndex, setSelectedImageIndex] = useState<number>(-1);
   const [activeCategory, setActiveCategory] = useState('all');
 
   const categories = [
@@ -419,14 +420,40 @@ export default function Portfolio() {
     }
   ];
 
-  const openModal = (src: string, alt: string) => {
+  const openModal = (src: string, alt: string, index: number) => {
     setSelectedImage({ src, alt });
+    setSelectedImageIndex(index);
     document.body.style.overflow = 'hidden';
   };
 
   const closeModal = () => {
     setSelectedImage(null);
+    setSelectedImageIndex(-1);
     document.body.style.overflow = 'auto';
+  };
+
+  const handleNext = () => {
+    const filteredProjects = activeCategory === 'all' 
+      ? projectGallery 
+      : projectGallery.filter(project => project.category === activeCategory);
+    
+    const nextIndex = (selectedImageIndex + 1) % filteredProjects.length;
+    const nextProject = filteredProjects[nextIndex];
+    setSelectedImage({ src: nextProject.image, alt: nextProject.alt });
+    setSelectedImageIndex(nextIndex);
+  };
+
+  const handlePrev = () => {
+    const filteredProjects = activeCategory === 'all' 
+      ? projectGallery 
+      : projectGallery.filter(project => project.category === activeCategory);
+    
+    const prevIndex = selectedImageIndex === 0 
+      ? filteredProjects.length - 1 
+      : selectedImageIndex - 1;
+    const prevProject = filteredProjects[prevIndex];
+    setSelectedImage({ src: prevProject.image, alt: prevProject.alt });
+    setSelectedImageIndex(prevIndex);
   };
 
   const filteredProjects = activeCategory === 'all' 
@@ -460,12 +487,12 @@ export default function Portfolio() {
           </div>
 
           {/* Gallery Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredProjects.map((project, index) => (
               <div 
                 key={index}
                 className="relative h-72 group overflow-hidden rounded-lg cursor-pointer"
-                onClick={() => openModal(project.image, project.alt)}
+                onClick={() => openModal(project.image, project.alt, index)}
               >
                 <Image
                   src={project.image}
@@ -485,6 +512,10 @@ export default function Portfolio() {
           src={selectedImage.src}
           alt={selectedImage.alt}
           onClose={closeModal}
+          onNext={handleNext}
+          onPrev={handlePrev}
+          hasNext={filteredProjects.length > 1}
+          hasPrev={filteredProjects.length > 1}
         />
       )}
     </main>
