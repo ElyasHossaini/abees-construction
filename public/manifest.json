@@ -10,7 +10,8 @@
     {
       "src": "/bee_logo_56x56.png",
       "sizes": "56x56",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "orientation": "portrait",

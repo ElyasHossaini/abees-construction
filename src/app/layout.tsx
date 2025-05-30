@@ -27,11 +27,11 @@ export const metadata: Metadata = {
       {
         url: '/bee_logo_56x56.png',
         sizes: '56x56',
-        type: 'image/png',
+        type: 'image/png'
       }
     ],
     shortcut: '/bee_logo_56x56.png',
-    apple: '/bee_logo_56x56.png',
+    apple: '/bee_logo_56x56.png'
   },
   openGraph: {
     title: 'Abees Construction - Calgary\'s Premier Renovation Experts',
@@ -89,6 +89,9 @@ export default function RootLayout({
         <meta name="geo.position" content="51.167409;-114.157253" />
         <meta name="ICBM" content="51.167409, -114.157253" />
         <link rel="manifest" href="/manifest.json" />
+        <link rel="icon" href="/bee_logo_56x56.png" />
+        <link rel="apple-touch-icon" href="/bee_logo_56x56.png" />
+        <link rel="shortcut icon" href="/bee_logo_56x56.png" />
       </head>
       <body className={inter.className}>
         <Script
