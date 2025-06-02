@@ -56,8 +56,8 @@ export default function Home() {
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-semibold mb-2 text-black">Modern Wetbar Renovation</h3>
-                <p className="text-black">Complete wetbar transformation with custom cabinets, quartz countertops, and premium finishes.</p>
+                <h3 className="text-xl font-semibold mb-2 text-black">Modern Wet bar Renovation</h3>
+                <p className="text-black">Complete wet bar transformation with custom cabinets, quartz countertops, and premium finishes.</p>
               </div>
             </div>
 
